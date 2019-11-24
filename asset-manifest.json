@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/IMDB_FE/static/css/main.060ecb10.chunk.css",
+    "main.js": "/IMDB_FE/static/js/main.f53722da.chunk.js",
+    "main.js.map": "/IMDB_FE/static/js/main.f53722da.chunk.js.map",
+    "runtime-main.js": "/IMDB_FE/static/js/runtime-main.c1bac627.js",
+    "runtime-main.js.map": "/IMDB_FE/static/js/runtime-main.c1bac627.js.map",
+    "static/css/2.266e55a5.chunk.css": "/IMDB_FE/static/css/2.266e55a5.chunk.css",
+    "static/js/2.18a04e7a.chunk.js": "/IMDB_FE/static/js/2.18a04e7a.chunk.js",
+    "static/js/2.18a04e7a.chunk.js.map": "/IMDB_FE/static/js/2.18a04e7a.chunk.js.map",
+    "index.html": "/IMDB_FE/index.html",
+    "precache-manifest.9f6ab14aff324058961a287c823d2576.js": "/IMDB_FE/precache-manifest.9f6ab14aff324058961a287c823d2576.js",
+    "service-worker.js": "/IMDB_FE/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/IMDB_FE/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.060ecb10.chunk.css.map": "/IMDB_FE/static/css/main.060ecb10.chunk.css.map",
+    "static/media/abominable.png": "/IMDB_FE/static/media/abominable.7a6b4d4b.png",
+    "static/media/angelHasFallen.jpg": "/IMDB_FE/static/media/angelHasFallen.51e77640.jpg",
+    "static/media/angelHasFallen.png": "/IMDB_FE/static/media/angelHasFallen.7cb3b5e8.png",
+    "static/media/downtonAbbey.png": "/IMDB_FE/static/media/downtonAbbey.9fd968ba.png",
+    "static/media/got.jpeg": "/IMDB_FE/static/media/got.f1eeff88.jpeg",
+    "static/media/greenbook.jpeg": "/IMDB_FE/static/media/greenbook.7cbf82f4.jpeg",
+    "static/media/hustlers.png": "/IMDB_FE/static/media/hustlers.ff9fb82d.png",
+    "static/media/it-chapter.webp": "/IMDB_FE/static/media/it-chapter.d474f240.webp",
+    "static/media/terminator.jpg": "/IMDB_FE/static/media/terminator.0042b941.jpg",
+    "static/media/theLionKing.jpeg": "/IMDB_FE/static/media/theLionKing.4e66665d.jpeg",
+    "static/media/theLionKing.png": "/IMDB_FE/static/media/theLionKing.b2f9a965.png",
+    "static/media/twitter-logo.png": "/IMDB_FE/static/media/twitter-logo.c4ca3bd3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1bac627.js",
+    "static/css/2.266e55a5.chunk.css",
+    "static/js/2.18a04e7a.chunk.js",
+    "static/css/main.060ecb10.chunk.css",
+    "static/js/main.f53722da.chunk.js"
+  ]
+}
